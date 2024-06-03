@@ -35,6 +35,8 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krison13425&layout=compact)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,5 +44,3 @@
 </p>
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krison13425&show_icons=true&locale=en&layout=compact" alt="krison13425" /></p>
